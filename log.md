@@ -13,10 +13,10 @@ I've completed the 2nd project for APIs and Microservices Certifications: Reques
 **Link to work:**
 https://github.com/donnacamos/requestHeaderParser.
 
-### Day 2: 
+### Day 2: 12/02/18
 
 **Today's Progress:**
-
+#301daysofcode Day 2: Worked through some of HTML basics on SoloCode App. My trucker husband is home, so I'm taking it easy with him. I'll get back to my project tomorrow @#freeCodeCamp.
 **Thoughts:**
 
 **Link to work:**
